@@ -1,6 +1,6 @@
 function validateInput(input) {
 
-    // regex pattern for email
+
     const re = /^[a-zA-Z]+$/
 
     let result = re.test(input);
